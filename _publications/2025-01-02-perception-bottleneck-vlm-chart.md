@@ -3,8 +3,8 @@ title: "On the Perception Bottleneck of VLMs for Chart Understanding"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-perception-bottleneck-vlm-chart
-excerpt: 'An analysis of the perception bottleneck of Vision-Language Models for chart understanding.'
+excerpt: ''
 date: 2025-01-01
-venue: 'arXiv preprint'
-citation: 'Junteng Liu, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. (2025). "On the Perception Bottleneck of VLMs for Chart Understanding." <i>arXiv preprint</i>.'
+venue: 'Arxiv'
+citation: 'Junteng Liu, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. (2025). "On the Perception Bottleneck of VLMs for Chart Understanding." <i>Arxiv</i>.'
 ---
