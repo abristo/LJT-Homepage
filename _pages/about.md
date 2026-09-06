@@ -26,6 +26,17 @@ Research Experience
 - **Research Intern**, Tencent WXG, June 2024 - September 2024 (advised by Zifei Shan)
 - **Research Intern**, Shanghai AI Lab, June 2023 - December 2023 (advised by Prof. Yu Cheng)
 
+Publications
+======
+For the full list, see the [Publications](/publications/) page. Selected works:
+
+- **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond**. <u>Junteng Liu</u>, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He. *arXiv preprint*, 2025.
+- **On the Perception Bottleneck of VLMs for Chart Understanding**. <u>Junteng Liu</u>, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. *arXiv preprint*, 2025.
+- **On the Universal Truthfulness Hyperplane Inside LLMs**. <u>Junteng Liu</u>, Shiqi Chen, Yu Cheng, Junxian He. *EMNLP 2024*.
+- **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation**. Shiqi Chen, Miao Xiong, <u>Junteng Liu</u>, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He. *ICML 2024*.
+- **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models**. Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, <u>Junteng Liu</u>, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He. *NeurIPS 2023*.
+- **Composing Parameter-Efficient Modules with Arithmetic Operations**. Jinghan Zhang, Shiqi Chen, <u>Junteng Liu</u>, Junxian He. *NeurIPS 2023*.
+
 Skills
 ======
 - **Research Areas**: Natural Language Processing, Machine Learning
