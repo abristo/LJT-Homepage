@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Junteng Liu, a first-year PhD candidate at the [HKUST NLP Group](https://hkust-nlp.github.io/), advised by [Professor Junxian He](https://jxhe.github.io/). I received my B.Eng. from Shanghai Jiao Tong University (SJTU) in June 2024.
+I am Junteng Liu, a first-year PhD candidate at the [HKUST NLP Group](https://hkust-nlp.github.io/), advised by [Professor Junxian He](https://jxhe.github.io/). I received my B.Eng. from Shanghai Jiao Tong University (SJTU) in June 2024, where I was also advised by Professor Junxian He during my undergraduate studies.
 
 My research lies at the intersection of natural language processing and machine learning. I am particularly interested in:
 
@@ -20,11 +20,17 @@ Education
 - **Ph.D. in Computer Science**, Hong Kong University of Science and Technology (HKUST), 2024 - Present
 - **B.Eng.**, Shanghai Jiao Tong University (SJTU), 2020 - 2024
 
-Experience
+Research Experience
 ======
 - **Research Intern**, MINIMAX, February 2025 - Present
 - **Research Intern**, Tencent WXG, June 2024 - September 2024 (advised by Zifei Shan)
 - **Research Intern**, Shanghai AI Lab, June 2023 - December 2023 (advised by Prof. Yu Cheng)
+
+Skills
+======
+- **Research Areas**: Natural Language Processing, Machine Learning
+- **Topics**: LLM Reasoning & Reinforcement Learning, Vision-Language Models, LLM Truthfulness & Interpretability, Hallucination Mitigation
+- **Languages**: English, Chinese
 
 Honors & Awards
 ======
@@ -32,4 +38,7 @@ Honors & Awards
 
 Contact
 ======
-Feel free to reach out to me at [jliugi@connect.ust.hk](mailto:jliugi@connect.ust.hk).
+- **Email**: [jliugi@connect.ust.hk](mailto:jliugi@connect.ust.hk)
+- **GitHub**: [Vicent0205](https://github.com/Vicent0205)
+- **Google Scholar**: [profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate)
+- **X (Twitter)**: [@junteng88716710](https://twitter.com/junteng88716710)
