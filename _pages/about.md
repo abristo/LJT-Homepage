@@ -9,7 +9,7 @@ redirect_from:
 
 ## About Me
 
-I am **Junteng Liu**, a first-year PhD candidate at the HKUST NLP Group, supervised by [Professor Junxian He](https://sites.google.com/view/junxianhe/). I graduated from Shanghai Jiao Tong University (SJTU) in June 2024. My research focuses on natural language processing and machine learning.
+I am **Junteng Liu**, a first-year PhD candidate at the HKUST NLP Group, supervised by Professor Junxian He. I graduated from Shanghai Jiao Tong University (SJTU) in June 2024. My research focuses on natural language processing and machine learning.
 
 ## Research Interests
 
